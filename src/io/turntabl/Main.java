@@ -50,7 +50,7 @@ public class Main {
             new Book("In the Chest of a Woman",010,Category.COMIC,State.BORROWED),
             new Book("Husband Diary",006,Category.COMIC,State.LOST),
             new Book("Toast of Life",004,Category.HISTORIC,State.AVAILABLE),
-            new Book("Confidence",005,Category.ROMANTIC,State.LOST)
+            new Book("Confidence & Bold",005,Category.ROMANTIC,State.LOST)
         );
 
         List<Book> BookType = new ArrayList<>();
